@@ -1,12 +1,10 @@
-Thanks for helping make Solar safe for everyone.
-
 ## Reporting Security Issues
 
 If you believe you have found a security vulnerability in any Solar-owned repository, please report it to us through coordinated disclosure.
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Instead, please send an email to hello[@]solar.org.
+Instead, please send an email to security[@]solar.org.
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
